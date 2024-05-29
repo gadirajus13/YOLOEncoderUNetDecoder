@@ -1,1 +1,1 @@
-# Unsupervised Traffic Segmentation utilzing custom Encoder-Decoder Architecture
+# Unsupervised Traffic Segmentation utilizing custom Encoder-Decoder Architecture
